@@ -7,6 +7,8 @@ Need to write a program which can be updated by itself
 # Test Task 2 
 Need to write a program to work with xml
 
+Write on WPF with MVVM
+
 Main functionality:
   - Choose file and parse it with next format:
     - File struct: 
